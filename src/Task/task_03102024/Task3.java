@@ -1,5 +1,4 @@
 package Task.task_03102024;
-import java.util.*;
 
 public class Task3 {
     public static void main(String[] args) {
