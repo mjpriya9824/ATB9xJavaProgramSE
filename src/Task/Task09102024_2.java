@@ -1,4 +1,4 @@
-package Task.task_03102024;
+package Task;
 
 public class Task09102024_2 {
     // CONSTANTS - WHOSE VALUES CANNOT BE CHANGED - CAN BE CREATE BY FINAL KEYWORD
