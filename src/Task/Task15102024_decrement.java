@@ -6,6 +6,7 @@ public class Task15102024_decrement {
         int a=20;
         System.out.println(--a + a++ +a--); //58
         System.out.println(a); //`19
+
         
     }
 }
