@@ -28,5 +28,7 @@ public class Task_17102024_triangle {
         {
             System.out.println("Scalene triangle");
         }
+        sc.close();
     }
+
 }
