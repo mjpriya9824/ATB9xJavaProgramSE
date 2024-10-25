@@ -16,7 +16,7 @@ public class Task16102024_scannerClass2 {
         int max = a>b? a:b;
 
         System.out.printf("Max of 2 nos is %d",max);
-
+    sc.close();
     }
 
 }
