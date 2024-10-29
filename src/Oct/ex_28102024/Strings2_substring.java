@@ -33,5 +33,6 @@ public class Strings2_substring {
         System.out.println("last index of: "+name.lastIndexOf("y"));  //returns first index
         System.out.println("is empty: "+name.isEmpty());
         System.out.println("starts with: "+name.startsWith("Jyo"));
+
     }
 }

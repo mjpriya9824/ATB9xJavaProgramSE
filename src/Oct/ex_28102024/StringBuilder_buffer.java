@@ -24,6 +24,16 @@ public class StringBuilder_buffer {
         System.out.println("string builder length: "+sbl.length());
         System.out.println("string builder capacity: "+sbl.capacity());
 
+        StringBuilder sbl2=new StringBuilder("WELCOME TO JAVA CLASS");
+        System.out.println(sbl2.delete(0,5));
+
+        System.out.println(sbl2.insert(0,"WELCO"));
+        sbl2.setCharAt(3,'j');
+        System.out.println("string builder set char at: "+sbl2);
+        System.out.println("string builder: "+sbl2);
+
+
+
     }
 
 }
