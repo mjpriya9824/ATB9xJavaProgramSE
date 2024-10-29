@@ -12,7 +12,7 @@ public class Strings1 {
         System.out.println("str1.equals(str2):"+str1.equals(str2) );
         System.out.println("str3==str2:"+str3==str2 );
         String name2=new String("Jyothi Priya");
-
+        System.out.println("uppercase:"+name.toUpperCase());
         System.out.println("length of string: "+name.length());
 
     }
