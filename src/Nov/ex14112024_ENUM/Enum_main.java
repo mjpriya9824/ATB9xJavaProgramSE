@@ -4,5 +4,6 @@ public class Enum_main {
     public static void main(String[] args)
     {
         System.out.println(APIConstantsEndPoints.LOGIN_URL.getName());
+        //O/P AS URL
     }
 }
